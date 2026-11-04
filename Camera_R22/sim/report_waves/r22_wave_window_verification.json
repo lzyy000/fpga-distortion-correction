@@ -1,0 +1,38 @@
+{
+  "timescale": "1ps",
+  "data_source": "ModelSim Version 10.5b VCD",
+  "render": {
+    "valid_samples": 49152,
+    "bilinear_errors": 0,
+    "two_cycle_delay_errors": 0,
+    "first_quad_ns": 6044.0,
+    "first_output_ns": 6060.0,
+    "first_output_rgb565": "556A",
+    "screenshot_window_ns": [
+      6032,
+      6128
+    ]
+  },
+  "cache32": {
+    "source_handshake_ns": 3012.0,
+    "requested_beats": 120,
+    "source_address": "013D2C00",
+    "return_valid_ns": 3020.0,
+    "registered_valid_ns": 3028.0,
+    "register_delay_ns": 8,
+    "screenshot_window_ns": [
+      2988,
+      3124
+    ]
+  },
+  "manager": {
+    "slot": 0,
+    "parameter_ready_ns": 3288.0,
+    "process_start_ns": 3292.0,
+    "captured_eis_mode_retained": true,
+    "screenshot_window_ns": [
+      3184,
+      3412
+    ]
+  }
+}

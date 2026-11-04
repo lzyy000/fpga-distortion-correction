@@ -1,0 +1,682 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(addsf3.o)
+                              D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o (__addsf3)
+d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(divsf3.o)
+                              D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o (__divsf3)
+d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(eqsf2.o)
+                              D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o (__eqsf2)
+d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(gesf2.o)
+                              D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o (__gesf2)
+d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(lesf2.o)
+                              D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o (__lesf2)
+d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(mulsf3.o)
+                              D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o (__mulsf3)
+d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(subsf3.o)
+                              D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o (__subsf3)
+d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(fixsfsi.o)
+                              D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o (__fixsfsi)
+d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(fixunssfsi.o)
+                              D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o (__fixunssfsi)
+d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(floatsisf.o)
+                              D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o (__floatsisf)
+d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(floatunsisf.o)
+                              D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o (__floatunsisf)
+d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+                              d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(addsf3.o) (__clzsi2)
+d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(_clz.o)
+                              d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o) (__clz_tab)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .data          0x0000000000000000        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .bss           0x0000000000000000        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .text          0x0000000000000000        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data          0x0000000000000000        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss           0x0000000000000000        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .comment       0x0000000000000000       0x3b D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(addsf3.o)
+ .data          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(addsf3.o)
+ .bss           0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(addsf3.o)
+ .text          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(divsf3.o)
+ .data          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(divsf3.o)
+ .bss           0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(divsf3.o)
+ .text          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(eqsf2.o)
+ .data          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(eqsf2.o)
+ .bss           0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(eqsf2.o)
+ .text          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(gesf2.o)
+ .data          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(gesf2.o)
+ .bss           0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(gesf2.o)
+ .text          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(lesf2.o)
+ .data          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(lesf2.o)
+ .bss           0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(lesf2.o)
+ .text          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(mulsf3.o)
+ .text          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(subsf3.o)
+ .data          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(subsf3.o)
+ .bss           0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(subsf3.o)
+ .text          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(fixsfsi.o)
+ .data          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(fixsfsi.o)
+ .bss           0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(fixsfsi.o)
+ .text          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(fixunssfsi.o)
+ .data          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(fixunssfsi.o)
+ .text          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(floatsisf.o)
+ .data          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(floatsisf.o)
+ .text          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(floatunsisf.o)
+ .data          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(floatunsisf.o)
+ .bss           0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(floatunsisf.o)
+ .text          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+ .data          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+ .bss           0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+ .text          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(_clz.o)
+ .data          0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(_clz.o)
+ .bss           0x0000000000000000        0x0 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(_clz.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+DATA             0x0000000000000000 0x0000000000001800 rw
+CODE             0x0000000000010000 0x000000000000e000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+LOAD D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+LOAD d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a
+
+.text           0x0000000000010000     0x8d9c
+ *(.text.start)
+ .text.start    0x0000000000010000       0x48 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+                0x0000000000010000                _start
+ .text.start    0x0000000000010048       0x1e D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ *(.text*)
+ .text.tx_poll  0x0000000000010066       0x3a D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.delay_ms
+                0x00000000000100a0       0x10 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.inverse_root_
+                0x00000000000100b0       0xb8 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.mul3     0x0000000000010168      0x24c D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.transpose
+                0x00000000000103b4       0x28 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.right_intrinsic_
+                0x00000000000103dc       0x7c D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.quaternion
+                0x0000000000010458      0x1c4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.unit4_   0x000000000001061c       0x54 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.frame_pose_
+                0x0000000000010670      0x2c8 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.unit3    0x0000000000010938       0xa4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.cross_   0x00000000000109dc       0x7a D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.blend_rotation_
+                0x0000000000010a56       0xaa D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.product_q_
+                0x0000000000010b00      0x152 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.rotation_gravity_
+                0x0000000000010c52      0x36e D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.swap32   0x0000000000010fc0       0x24 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.crc_payload
+                0x0000000000010fe4       0x38 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.packet_header
+                0x000000000001101c       0xb2 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.text_packet
+                0x00000000000110ce       0x86 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.net_ungray
+                0x0000000000011154       0x1e D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.putc_    0x0000000000011172       0x3e D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.puts_    0x00000000000111b0       0x1c D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.hex      0x00000000000111cc       0x3c D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.dec      0x0000000000011208       0x3a D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.net_diag_print
+                0x0000000000011242       0xc6 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.tuning_reply
+                0x0000000000011308      0x334 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.camera_mount_
+                0x000000000001163c        0xa D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.gyro_fifo_poll_
+                0x0000000000011646      0x7cc D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.root_    0x0000000000011e12       0x34 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.refresh_bounds_
+                0x0000000000011e46      0x458 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.crop_inverse_
+                0x000000000001229e       0x88 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.control_commit
+                0x0000000000012326      0x5a8 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.host_poll_.isra.10
+                0x00000000000128ce      0x438 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.rotation_upright_.constprop.12
+                0x0000000000012d06      0x194 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.required_zoom_.constprop.16
+                0x0000000000012e9a      0x1b6 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.crop_planes_.constprop.19
+                0x0000000000013050      0x1a8 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.crop_fits_.constprop.18
+                0x00000000000131f8       0x3e D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.rotation_step_.constprop.11
+                0x0000000000013236      0x89c D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.eis_step_.constprop.13
+                0x0000000000013ad2      0x8c4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.out      0x0000000000014396       0x1e D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.sda      0x00000000000143b4       0x12 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.scl      0x00000000000143c6        0xc D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.fail     0x00000000000143d2       0x32 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.high     0x0000000000014404       0x3c D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.stop     0x0000000000014440       0x18 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.send     0x0000000000014458       0x50 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.read_reg
+                0x00000000000144a8       0xdc D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.must_write
+                0x0000000000014584       0x58 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.verify   0x00000000000145dc       0xa2 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.unlikely.probe_stream
+                0x000000000001467e      0x15a D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .text.startup.main
+                0x00000000000147d8     0x170a D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+                0x00000000000147d8                main
+ *fill*         0x0000000000015ee2        0x2 
+ .text.__addsf3
+                0x0000000000015ee4      0x534 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(addsf3.o)
+                0x0000000000015ee4                __addsf3
+ .text.__divsf3
+                0x0000000000016418      0x408 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(divsf3.o)
+                0x0000000000016418                __divsf3
+ .text.__eqsf2  0x0000000000016820       0x78 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(eqsf2.o)
+                0x0000000000016820                __eqsf2
+                0x0000000000016820                __nesf2
+ .text.__gesf2  0x0000000000016898       0xc4 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(gesf2.o)
+                0x0000000000016898                __gesf2
+                0x0000000000016898                __gtsf2
+ .text.__lesf2  0x000000000001695c       0xc8 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(lesf2.o)
+                0x000000000001695c                __ltsf2
+                0x000000000001695c                __lesf2
+ .text.__mulsf3
+                0x0000000000016a24      0x39c d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(mulsf3.o)
+                0x0000000000016a24                __mulsf3
+ .text.__subsf3
+                0x0000000000016dc0      0x56c d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(subsf3.o)
+                0x0000000000016dc0                __subsf3
+ .text.__fixsfsi
+                0x000000000001732c       0x74 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(fixsfsi.o)
+                0x000000000001732c                __fixsfsi
+ .text.__fixunssfsi
+                0x00000000000173a0       0x64 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(fixunssfsi.o)
+                0x00000000000173a0                __fixunssfsi
+ .text.__floatsisf
+                0x0000000000017404      0x15c d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(floatsisf.o)
+                0x0000000000017404                __floatsisf
+ .text.__floatunsisf
+                0x0000000000017560      0x11c d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(floatunsisf.o)
+                0x0000000000017560                __floatunsisf
+ .text.__clzsi2
+                0x000000000001767c       0x94 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)
+                0x000000000001767c                __clzsi2
+ *(.rodata*)
+ .rodata.addr.2133
+                0x0000000000017710       0x2c D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.camera_regs
+                0x000000000001773c      0x410 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.control_commit.cst4
+                0x0000000000017b4c       0x40 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.crop_planes_.constprop.19.cst4
+                0x0000000000017b8c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.eis_step_.constprop.13.cst4
+                0x0000000000017b90       0x1c D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.expected.2134
+                0x0000000000017bac       0x16 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ *fill*         0x0000000000017bc2        0x2 
+ .rodata.fisheye_dist
+                0x0000000000017bc4       0x10 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.frame_pose_.cst4
+                0x0000000000017bd4        0x8 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.gyro_fifo_poll_.cst4
+                0x0000000000017bdc       0x18 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.hex.str1.4
+                0x0000000000017bf4       0x11 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ *fill*         0x0000000000017c05        0x3 
+ .rodata.high.str1.4
+                0x0000000000017c08       0x13 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ *fill*         0x0000000000017c1b        0x1 
+ .rodata.host_poll_.isra.10.cst4
+                0x0000000000017c1c       0x1c D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.inverse_root_.cst4
+                0x0000000000017c38        0x8 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.main.cst4
+                0x0000000000017c40        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.main.str1.4
+                0x0000000000017c44      0xb6a D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+                                        0xb72 (size before relaxing)
+ *fill*         0x00000000000187ae        0x2 
+ .rodata.must_write.str1.4
+                0x00000000000187b0       0x14 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.net_diag_print.str1.4
+                0x00000000000187c4       0x78 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+                                         0x7b (size before relaxing)
+ .rodata.probe_stream.str1.4
+                0x000000000001883c       0xbe D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ *fill*         0x00000000000188fa        0x2 
+ .rodata.quaternion.cst4
+                0x00000000000188fc        0xc D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.refresh_bounds_.cst4
+                0x0000000000018908       0x1c D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.required_zoom_.constprop.16.cst4
+                0x0000000000018924        0xc D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.root_.cst4
+                0x0000000000018930        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.rotation_gravity_.cst4
+                0x0000000000018934       0x10 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.rotation_step_.constprop.11.cst4
+                0x0000000000018944       0x20 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.rotation_upright_.constprop.12.cst4
+                0x0000000000018964        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.tuning_reply.cst4
+                0x0000000000018968        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.tuning_reply.str1.4
+                0x000000000001896c      0x215 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ *fill*         0x0000000000018b81        0x3 
+ .rodata.unit3.cst4
+                0x0000000000018b84        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .rodata.verify.str1.4
+                0x0000000000018b88       0x54 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+                                         0x60 (size before relaxing)
+ .rodata.__divsf3
+                0x0000000000018bdc       0x80 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(divsf3.o)
+ .rodata.__mulsf3
+                0x0000000000018c5c       0x40 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(mulsf3.o)
+ .rodata.__clz_tab
+                0x0000000000018c9c      0x100 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(_clz.o)
+                0x0000000000018c9c                __clz_tab
+ *(.srodata*)
+                0x0000000000018d9c                . = ALIGN (0x4)
+                0x0000000000018d9c                _etext = .
+
+.rela.dyn       0x0000000000018d9c        0x0
+ .rela.text.start
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.inverse_root_
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.mul3
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.right_intrinsic_
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.quaternion
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.unit4_
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.frame_pose_
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.unit3
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.cross_
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.blend_rotation_
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.product_q_
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.rotation_gravity_
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.tuning_reply
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.gyro_fifo_poll_
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.root_
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.refresh_bounds_
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.crop_inverse_
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.control_commit
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.host_poll_.isra.10
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.rotation_upright_.constprop.12
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.required_zoom_.constprop.16
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.crop_planes_.constprop.19
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.crop_fits_.constprop.18
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.rotation_step_.constprop.11
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.eis_step_.constprop.13
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.startup.main
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.__addsf3
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.__divsf3
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.__mulsf3
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.__subsf3
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.__floatsisf
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.__floatunsisf
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .rela.text.__clzsi2
+                0x0000000000018d9c        0x0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+
+.data           0x0000000000000000      0x238 load address 0x0000000000018d9c
+                0x0000000000000000                . = ALIGN (0x4)
+                0x0000000000000000                _sdata = .
+                0x0000000000000800                __global_pointer$ = (. + 0x800)
+ *(.data*)
+ .data.bias_anchor
+                0x0000000000000000       0x10 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.brown_intr
+                0x0000000000000010       0x24 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.dirty    0x0000000000000034        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.eis_safe
+                0x0000000000000038       0x24 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.eis_safe_zoom
+                0x000000000000005c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.eis_smooth_q
+                0x0000000000000060       0x10 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.eis_tau  0x0000000000000070        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.eis_virtual
+                0x0000000000000074       0x24 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.eis_yaw_tau
+                0x0000000000000098        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.eis_zoom
+                0x000000000000009c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.eis_zoom_base
+                0x00000000000000a0        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.eis_zoom_max
+                0x00000000000000a4        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.fisheye_intr
+                0x00000000000000a8       0x24 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.gpio     0x00000000000000cc        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.gyro_q30
+                0x00000000000000d0       0x10 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.host_command_ok
+                0x00000000000000e0        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.intr     0x00000000000000e4        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.latest_qv
+                0x00000000000000e8       0x10 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.map_camera
+                0x00000000000000f8       0x24 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.map_pose
+                0x000000000000011c       0x24 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.mount    0x0000000000000140       0x24 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.pose     0x0000000000000164       0x24 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.pose_timeout
+                0x0000000000000188        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.ref_request
+                0x000000000000018c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.reference
+                0x0000000000000190       0x24 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.rot_actual_zoom_milli
+                0x00000000000001b4        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.rot_forward
+                0x00000000000001b8        0xc D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.rot_horizon
+                0x00000000000001c4        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.rot_last_raw
+                0x00000000000001c8        0xc D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.rot_max_zoom_milli
+                0x00000000000001d4        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.rot_safe_zoom
+                0x00000000000001d8        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.rot_tau  0x00000000000001dc        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.rot_tau_ms
+                0x00000000000001e0        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.rot_zoom
+                0x00000000000001e4        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.rot_zoom_base
+                0x00000000000001e8        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.rot_zoom_max
+                0x00000000000001ec        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.rot_zoom_milli
+                0x00000000000001f0        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.rotation_basis
+                0x00000000000001f4       0x24 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.rotation_up
+                0x0000000000000218        0xc D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.rs_strength
+                0x0000000000000224        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.tune_denoise
+                0x0000000000000228        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.tune_ghe
+                0x000000000000022c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.tune_ghe_high
+                0x0000000000000230        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .data.tune_night
+                0x0000000000000234        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ *(.sdata*)
+                0x0000000000000238                . = ALIGN (0x4)
+                0x0000000000000238                _edata = .
+                0x0000000000018d9c                _sidata = LOADADDR (.data)
+
+.bss            0x0000000000000238      0xef8 load address 0x0000000000018fd4
+                0x0000000000000238                . = ALIGN (0x4)
+                0x0000000000000238                _sbss = .
+ *(.bss*)
+ .bss.active_readback_ok
+                0x0000000000000238        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.bias_count
+                0x000000000000023c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.bias_start_ms
+                0x0000000000000240        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.bias_sum  0x0000000000000244        0xc D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.bias_updates
+                0x0000000000000250        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.config_version
+                0x0000000000000254        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_bounds_ready
+                0x0000000000000258        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_bounds_valid
+                0x000000000000025c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_center
+                0x0000000000000260        0xc D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_enabled
+                0x000000000000026c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_ix    0x0000000000000270        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_iy    0x0000000000000274        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_last_ms
+                0x0000000000000278        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_limit_events
+                0x000000000000027c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_limited
+                0x0000000000000280        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_oxhi  0x0000000000000284        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_oxlo  0x0000000000000288        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_oyhi  0x000000000000028c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_oylo  0x0000000000000290        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_ready
+                0x0000000000000294        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_safe_failures
+                0x0000000000000298        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_safety_zooms
+                0x000000000000029c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_seen  0x00000000000002a0        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_xhi   0x00000000000002a4        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_xlo   0x00000000000002a8        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_yhi   0x00000000000002ac        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.eis_ylo   0x00000000000002b0        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.frame_clock_ms
+                0x00000000000002b4        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.frame_crc
+                0x00000000000002b8        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.frame_number
+                0x00000000000002bc        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.frame_offset_us
+                0x00000000000002c0        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.frame_pose_valid
+                0x00000000000002c4        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.frame_sync_failures
+                0x00000000000002c8        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.frame_target_us
+                0x00000000000002cc        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.frame_yaw_rate
+                0x00000000000002d0        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.gyro_bias
+                0x00000000000002d4        0xc D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.gyro_bias_q16
+                0x00000000000002e0        0xc D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.gyro_count
+                0x00000000000002ec        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.gyro_epoch
+                0x00000000000002f0        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.gyro_gaps
+                0x00000000000002f4        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.gyro_head
+                0x00000000000002f8        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.gyro_history
+                0x00000000000002fc       0xc0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.gyro_last_us
+                0x00000000000003bc        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.gyro_overflows
+                0x00000000000003c0        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.gyro_previous
+                0x00000000000003c4        0xc D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.gyro_ready
+                0x00000000000003d0        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.gyro_samples
+                0x00000000000003d4        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.gyro_times
+                0x00000000000003d8       0x30 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.have_pose
+                0x0000000000000408        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.have_q    0x000000000000040c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.have_ref  0x0000000000000410        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.host_seen
+                0x0000000000000414        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.imu_delay_us
+                0x0000000000000418        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.job_fisheye
+                0x000000000000041c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.job_lens  0x0000000000000420        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.job_rotation
+                0x0000000000000424        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.last_activity
+                0x0000000000000428        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.last_q    0x000000000000042c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.load_index
+                0x0000000000000430        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.load_pending
+                0x0000000000000434        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.missing   0x0000000000000438      0x200 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.missing_count
+                0x0000000000000638        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.missing_pos
+                0x000000000000063c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.nack_phase
+                0x0000000000000640        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.pose_ms   0x0000000000000644        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.pose_serial
+                0x0000000000000648        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.previous_frame_us
+                0x000000000000064c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.request_id
+                0x0000000000000650        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rot_enabled
+                0x0000000000000654        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rot_last_ms
+                0x0000000000000658        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rot_limit_events
+                0x000000000000065c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rot_limited
+                0x0000000000000660        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rot_ready
+                0x0000000000000664        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rot_rs_milli
+                0x0000000000000668        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rot_rs_strength
+                0x000000000000066c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rot_safe  0x0000000000000670       0x24 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rot_safe_failures
+                0x0000000000000694        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rot_safety_zooms
+                0x0000000000000698        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rot_seen  0x000000000000069c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rot_virtual
+                0x00000000000006a0       0x24 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rotation_epoch
+                0x00000000000006c4        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rotation_gravity_ms
+                0x00000000000006c8        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rotation_pose_seen
+                0x00000000000006cc        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rotation_up_ready
+                0x00000000000006d0        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rs_readout_override_us
+                0x00000000000006d4        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.rxpacket  0x00000000000006d8      0x230 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.session_active
+                0x0000000000000908        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.snapshot_geometry
+                0x000000000000090c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.snapshot_pending
+                0x0000000000000910        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.snapshot_ready
+                0x0000000000000914        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.solve_max_ms
+                0x0000000000000918        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.stream_index
+                0x000000000000091c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.tx_async  0x0000000000000920        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.tx_dropped
+                0x0000000000000924        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.tx_head   0x0000000000000928        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.tx_ring   0x000000000000092c      0x800 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .bss.tx_tail   0x000000000000112c        0x4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ *(.sbss*)
+ *(COMMON)
+                0x0000000000001130                . = ALIGN (0x4)
+                0x0000000000001130                _ebss = .
+
+/DISCARD/
+ *(.eh_frame*)
+ *(.comment*)
+                0x0000000000000001                ASSERT ((_ebss <= 0x1800), DATA/BSS encroaches on 2 KiB reserved stack)
+                0x0000000000000001                ASSERT (((LOADADDR (.data) + SIZEOF (.data)) <= 0x1e000), Firmware exceeds 56 KiB code area)
+OUTPUT(firmware/camera_r22_build/firmware.elf elf32-littleriscv)
+
+.debug_line     0x0000000000000000     0x3080
+ .debug_line    0x0000000000000000       0xaf D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .debug_line    0x00000000000000af     0x2fd1 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+
+.debug_info     0x0000000000000000     0x73ba
+ .debug_info    0x0000000000000000       0x26 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .debug_info    0x0000000000000026     0x7394 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+
+.debug_abbrev   0x0000000000000000      0x3da
+ .debug_abbrev  0x0000000000000000       0x14 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .debug_abbrev  0x0000000000000014      0x3c6 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+
+.debug_aranges  0x0000000000000000      0x1d0
+ .debug_aranges
+                0x0000000000000000       0x20 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .debug_aranges
+                0x0000000000000020      0x1b0 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+
+.debug_str      0x0000000000000000      0xf35
+ .debug_str     0x0000000000000000       0x61 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\ccwiUOQe.o
+ .debug_str     0x0000000000000061      0xed4 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+                                       0x101f (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x4dfe
+ .debug_loc     0x0000000000000000     0x4dfe D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+
+.debug_ranges   0x0000000000000000     0x10c8
+ .debug_ranges  0x0000000000000000     0x10c8 D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+
+.debug_frame    0x0000000000000000      0xbe0
+ .debug_frame   0x0000000000000000      0x99c D:\FPGA\project\camera-1080p30-raw8-r12\camera-1080p30-raw8-r12\work\r22_eis\cce1njEc.o
+ .debug_frame   0x000000000000099c       0x40 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(addsf3.o)
+ .debug_frame   0x00000000000009dc       0x50 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(divsf3.o)
+ .debug_frame   0x0000000000000a2c       0x20 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(eqsf2.o)
+ .debug_frame   0x0000000000000a4c       0x20 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(gesf2.o)
+ .debug_frame   0x0000000000000a6c       0x20 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(lesf2.o)
+ .debug_frame   0x0000000000000a8c       0x4c d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(mulsf3.o)
+ .debug_frame   0x0000000000000ad8       0x3c d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(subsf3.o)
+ .debug_frame   0x0000000000000b14       0x20 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(fixsfsi.o)
+ .debug_frame   0x0000000000000b34       0x20 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(fixunssfsi.o)
+ .debug_frame   0x0000000000000b54       0x38 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(floatsisf.o)
+ .debug_frame   0x0000000000000b8c       0x34 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(floatunsisf.o)
+ .debug_frame   0x0000000000000bc0       0x20 d:/fpga/100pro+.zip/100pro+/100pro+/8_»Ì∫À/100+/rv32_100pro/tools/riscv-gcc/bin/../lib/gcc/riscv-none-embed/7.2.0/rv32im/ilp32\libgcc.a(_clzsi2.o)

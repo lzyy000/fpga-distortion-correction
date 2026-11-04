@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-03",
+  "source_project": "D:\\pango\\pango100Pro\\Camera_R22_20261031",
+  "simulator": "ModelSim Intel FPGA Starter Edition 10.5b",
+  "test": "tb_control / sim/r16/tb_snapshot_views.v",
+  "full_test_pass": true,
+  "finish_ns": 1960,
+  "compile_errors": 0,
+  "compile_warnings": 0,
+  "gui_wave_user_confirmation": "2026-11-03 user screenshot confirms tb_control loaded, Wave signals displayed, READY and Now=1000ns",
+  "scope": "Existing R16 control/snapshot/DMA-arbiter unit test; not R22 pixel pipeline or physical DDR test",
+  "input_sha256": {
+    "rtl\\camera_view_control.v": "38a5691cd3f5bc3ff307493371599f6b4daac637b5756a551750fd4cefca4184",
+    "rtl\\camera_corrected_manager.v": "721d1ad77c5d3dadd8febfd7cf3572e91e43f642c11cd1b708d57f84d14642aa",
+    "rtl\\camera_engine_arbiter.v": "2df7af3df65dd4a32b842712bb520ee97730af51b15bb0431dd8fc86871cebc6",
+    "sim\\r16\\tb_snapshot_views.v": "fc1f06dbb492593bf67aa54e727ed33a209aa958bfe26ebda21a38fae4b5e41b"
+  }
+}

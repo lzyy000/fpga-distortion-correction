@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>相机畸变矫正检查</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f3f5f8;color:#17283d;font-family:system-ui,"Microsoft YaHei",sans-serif}main{max-width:1560px;margin:auto;padding:24px}h1{margin:0 0 10px;font-size:26px}p{line-height:1.6;margin:8px 0}.note{color:#5c6472}.controls{display:flex;gap:18px;align-items:center;flex-wrap:wrap;margin:22px 0}select,button{font:inherit;padding:9px 12px;border:1px solid #bcc7d5;border-radius:5px;background:white;color:#17283d}label{display:flex;gap:8px;align-items:center}.pair{display:grid;grid-template-columns:1fr 1fr;gap:16px}.panel{min-width:0}h2{font-size:18px;margin:0 0 8px}.canvas-wrap{background:#14273f}canvas{display:block;width:100%;height:auto}a{color:#1d5fcc}.metrics{display:flex;gap:20px;flex-wrap:wrap;margin:12px 0;font-variant-numeric:tabular-nums}.notice{color:#8d521c}table{border-collapse:collapse;width:100%;margin-top:14px;background:#fff}th,td{text-align:left;padding:10px;border-bottom:1px solid #dbe2ec}.table-wrap{overflow-x:auto}.current{background:#e7efff}.actions{display:flex;gap:16px;flex-wrap:wrap;margin:10px 0}.error{color:#b02020}@media(max-width:760px){main{padding:14px}.pair{grid-template-columns:1fr}select{max-width:100%}th,td{padding:8px}}
+</style>
+</head>
+<body><main>
+<h1>当前参数：矫正前后检查</h1>
+<p>观察棋盘格各行、各列及背景中的直线是否更直。倾斜产生的梯形可以保留，不要求变成正方形。</p>
+<p class="notice" id="scope">使用已保存参数比较当前照片；未写入 FPGA。</p>
+<div class="controls">
+<label>照片 <select id="photo" aria-label="选择照片"></select></label>
+<label><input id="zoom" type="checkbox">棋盘格放大（左右采用同一显示区域）</label>
+</div>
+<div class="pair">
+<section class="panel"><h2>原始照片</h2><div class="canvas-wrap"><canvas id="original" aria-label="原始照片预览"></canvas></div></section>
+<section class="panel"><h2>当前参数矫正</h2><div class="canvas-wrap"><canvas id="corrected" aria-label="矫正照片预览"></canvas></div></section>
+</div>
+<div class="metrics" id="metrics" aria-live="polite"></div>
+<div class="actions"><a id="originalLink" target="_blank">打开原始完整帧</a><a id="correctedLink" target="_blank">打开矫正完整帧</a><a id="detailLink" target="_blank">打开棋盘格 1:1 对比图</a></div>
+<p class="note">完整帧均为 1920×1080。预览缩放和棋盘格放大仅用于查看，不改变参数或输入照片。未额外锐化、自动裁边或做透视拉正。</p>
+<p class="note">“直线偏离 RMS”越小，角点越接近一条直线。仅在检测到完整棋盘格时计算，使用原图角点经模型转换后比较，不是独立验证精度，也不能证明棋盘板材绝对平整。</p>
+<h2>逐张结果</h2>
+<div class="table-wrap"><table><thead><tr><th>拍摄时间</th><th>原图直线偏离</th><th>矫正后</th><th>变化</th></tr></thead><tbody id="rows"></tbody></table></div>
+<p id="summary"></p><p class="note">黑边可能来自输出坐标超出原图，并不单独代表算法失败；背景直线变得更弯、局部异常拉伸或不同照片上效果反复，才需要进一步查参数。</p>
+<p class="note">验证下一步：用未参与标定的一张静止棋盘格或有明确直线的场景，以同一组参数检查。对比完整画面、边缘细节和直线偏离，结合已有的留一法稳定性结果判断。</p>
+<p class="note">计算依据：<a href="https://docs.opencv.org/4.x/d9/d0c/group__calib3d.html" target="_blank">OpenCV 畸变矫正与点坐标转换文档</a>。</p>
+<p class="error" id="error" role="alert"></p>
+</main>
+<script>
+const review=__REVIEW_DATA__;
+const select=document.getElementById('photo'),zoom=document.getElementById('zoom');
+const originalCanvas=document.getElementById('original'),correctedCanvas=document.getElementById('corrected');
+let generation=0;
+function measured(row){return row.before!==null && row.after!==null && Number.isFinite(row.before?.rms_pixels) && Number.isFinite(row.after?.rms_pixels)}
+function photoLabel(row){const match=row.file.match(/_(\d{6})_/);return match?match[1].replace(/(\d{2})(\d{2})(\d{2})/,'$1:$2:$3'):row.file}
+function changeLabel(row){return measured(row)?(row.improved?'直线偏离减小':'直线偏离增大'):'仅画面对比'}
+for(const row of review.views){const option=document.createElement('option');option.value=row.index-1;option.textContent=`${row.index}. ${photoLabel(row)} · ${changeLabel(row)}`;select.append(option)}
+const tbody=document.getElementById('rows');
+for(const row of review.views){
+  const tr=document.createElement('tr');tr.dataset.index=row.index-1;
+  const values=[photoLabel(row),measured(row)?row.before.rms_pixels.toFixed(3)+' px':'未检测到完整棋盘',measured(row)?row.after.rms_pixels.toFixed(3)+' px':'未计算',changeLabel(row)];
+  for(const value of values){const td=document.createElement('td');td.textContent=value;tr.append(td)}
+  tr.addEventListener('click',()=>{select.value=String(row.index-1);render()});tbody.append(tr);
+}
+const measuredCount=review.views.filter(measured).length;
+const stable=review.stability_max_mapping_change_pixels;
+const stats=measuredCount?`${review.improved_views}/${measuredCount} 张可测照片的角点直线偏离减小。`:'当前照片未检测到完整棋盘格，未计算直线偏离；仍可比较画面。';
+document.getElementById('summary').textContent=stats+(Number.isFinite(stable)?` 标定时的留一法边界映射最大变化为 ${stable.toFixed(1)} 像素。`:'');
+const missing=(review.missing_calibration_sources||[]).length;
+document.getElementById('scope').textContent=`本页比较当前保存目录的 ${review.views.length} 张照片；每张标明是否参与过参数计算。`+(missing?` ${missing} 张旧标定原图已不在原位置，不影响使用已保存参数矫正当前照片。`:'')+' 尚未写入 FPGA。';
+function load(src){return new Promise((resolve,reject)=>{const img=new Image();img.onload=()=>resolve(img);img.onerror=()=>reject(new Error('无法读取 '+src));img.src=src})}
+async function render(){
+  const ticket=++generation,row=review.views[Number(select.value)];document.getElementById('error').textContent='';
+  if(!row){select.disabled=true;zoom.disabled=true;document.getElementById('error').textContent='当前没有可显示的原尺寸照片。';return}
+  document.querySelectorAll('#rows tr').forEach(tr=>tr.classList.toggle('current',Number(tr.dataset.index)===Number(select.value)));
+  zoom.disabled=!measured(row);if(zoom.disabled)zoom.checked=false;
+  const membership=row.used_for_calibration?'这张照片参与过参数计算':'这张照片未在本轮标定文件列表中';
+  document.getElementById('metrics').textContent=measured(row)?`角点 ${row.corner_count} 个 · 直线偏离 RMS：原图 ${row.before.rms_pixels.toFixed(3)} px → 矫正 ${row.after.rms_pixels.toFixed(3)} px · ${membership}`:`未检测到完整棋盘格 · 仅比较矫正画面 · ${membership}`;
+  document.getElementById('originalLink').href=row.original;document.getElementById('correctedLink').href=row.corrected;
+  const detail=document.getElementById('detailLink');detail.hidden=!row.detail;if(row.detail)detail.href=row.detail;
+  try{const images=await Promise.all([load(row.original),load(row.corrected)]);if(ticket!==generation)return;
+    const roi=zoom.checked?row.roi:[0,0,...review.output_size];
+    [originalCanvas,correctedCanvas].forEach((canvas,index)=>{canvas.width=roi[2];canvas.height=roi[3];canvas.getContext('2d').drawImage(images[index],...roi,0,0,roi[2],roi[3])});
+  }catch(error){document.getElementById('error').textContent=error.message}
+}
+select.value=String(Math.max(0,review.views.length-1));select.addEventListener('change',render);zoom.addEventListener('change',render);render();
+</script></body></html>

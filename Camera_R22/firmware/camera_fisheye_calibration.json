@@ -1,0 +1,119 @@
+{
+  "camera_model": "opencv_fisheye",
+  "distortion_model": "equidistant_theta_polynomial",
+  "coefficient_order": [
+    "k1",
+    "k2",
+    "k3",
+    "k4"
+  ],
+  "calibration_size": [
+    1920,
+    1080
+  ],
+  "K": [
+    [
+      2660.3842181108785,
+      0.0,
+      666.9756494555677
+    ],
+    [
+      0.0,
+      2671.633081254623,
+      380.4157126233012
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "D": [
+    -0.06776720215387538,
+    0.0327856178496827,
+    0.0,
+    0.0
+  ],
+  "R": [
+    [
+      1.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "K_prime": [
+    [
+      2605.1826736860544,
+      0.0,
+      643.3451938474298
+    ],
+    [
+      0.0,
+      2616.1981289579844,
+      374.89957885589826
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "rms_pixels": 0.6402659747804456,
+  "fixed_coefficients": [
+    "k3=0",
+    "k4=0"
+  ],
+  "checkerboard": {
+    "squares": [
+      10,
+      7
+    ],
+    "inner_corners": [
+      9,
+      6
+    ],
+    "square_size_mm": 25.0
+  },
+  "selected_variant": "k1_k2",
+  "warnings": [
+    "Input metadata records capture_source=processed result, with applied_modes=0 for all included images. These files alone do not certify an unmodified raw sensor projection; treat as a trial calibration until the capture path is confirmed.",
+    "Calibration uses the OpenCV fisheye theta polynomial k1,k2,k3,k4; these are NOT Brown-Conrady k1,k2,p1,p2,k3 and must not be inserted into the current FPGA model.",
+    "All supplied views were used for fitting; leave-one-out checks reuse this capture session and are not an independent validation dataset.",
+    "Leave-one-out cy varies from 331.69 to 396.09px; the maximum full-grid rectification change is 92.82px. Low training RMS does not certify stable intrinsics. Additional independent, flat-board views with substantial pitch and edge coverage are recommended before deployment."
+  ],
+  "stability": {
+    "fx_range_pixels": [
+      2645.0872014933902,
+      2670.469605543407
+    ],
+    "fy_range_pixels": [
+      2654.409747014935,
+      2680.467443197586
+    ],
+    "cx_range_pixels": [
+      638.570654483295,
+      693.9149263562992
+    ],
+    "cy_range_pixels": [
+      331.686574486295,
+      396.092460354022
+    ],
+    "max_grid_rectification_change_pixels": 92.81791848223118,
+    "max_p95_grid_rectification_change_pixels": 77.33663801419398,
+    "definition": "Leave-one-out pixel-to-rectified-pixel comparison on a 25x15 full-image grid using the same fixed output K. This measures model sensitivity, not an independently measured error."
+  },
+  "status": "SOURCE_INTEGRATED_PENDING_FPGA_BUILD_AND_BOARD_VALIDATION",
+  "source_candidate": "calibration/fisheye_local_pc_20261030/fisheye_calibration.json",
+  "source_candidate_sha256": "02b42bf472446d9f83b8f8a54d8bddd8802bbae1abe8e9dec917eb2e6d6276bf",
+  "source_calibration_is_trial": true
+}

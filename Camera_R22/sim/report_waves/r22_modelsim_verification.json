@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-03",
+  "simulator": "ModelSim Intel FPGA Starter Edition 10.5b",
+  "project": "D:\\pango\\pango100Pro\\Camera_R22_20261031",
+  "cases": {
+    "render": {
+      "pass": true,
+      "elapsed_s": 3.437,
+      "log": "D:\\pango\\pango100Pro\\Camera_R22_20261031\\sim\\report_waves\\render_run\\render_modelsim_validation.log",
+      "vcd": "D:\\pango\\pango100Pro\\Camera_R22_20261031\\sim\\report_waves\\render_run\\render_validation.vcd",
+      "vcd_bytes": 7601804,
+      "vcd_sha256": "09966bc2d0119bf9784cb87f9bef6bb09d0b8af5fcb23adfd72926b3c2f51cf6",
+      "scope": "128x96, 4 frames / 49152 pixels; finite RTL test with a waiting DDR transaction model",
+      "warnings": 0,
+      "errors": 0
+    },
+    "cache32": {
+      "pass": true,
+      "elapsed_s": 1.969,
+      "log": "D:\\pango\\pango100Pro\\Camera_R22_20261031\\sim\\report_waves\\cache32_run\\cache32_modelsim_validation.log",
+      "vcd": "D:\\pango\\pango100Pro\\Camera_R22_20261031\\sim\\report_waves\\cache32_run\\cache32_validation.vcd",
+      "vcd_bytes": 852752,
+      "vcd_sha256": "b4f413f97872b12c5584e74841b80bf6d37bc680f232f543f17fd823bfd8ca5c",
+      "scope": "32-row cache, production width 1920, 3 sampled scanlines / 5760 pixels; DDR transaction model",
+      "warnings": 0,
+      "errors": 0
+    },
+    "manager": {
+      "pass": true,
+      "elapsed_s": 1.609,
+      "log": "D:\\pango\\pango100Pro\\Camera_R22_20261031\\sim\\report_waves\\manager_run\\manager_modelsim_validation.log",
+      "vcd": "D:\\pango\\pango100Pro\\Camera_R22_20261031\\sim\\report_waves\\manager_run\\manager_validation.vcd",
+      "vcd_bytes": 13768,
+      "vcd_sha256": "860bf09d7268e181a47e6120e605c3084daf780333128fd950f715be68854aca",
+      "scope": "R22 four-slot finite control cases, including parameter readiness and captured mode retention",
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  "inputs_unchanged": true,
+  "gui_user_confirmation": {
+    "render": "User screenshot confirms native tb_render Wave, complete 6032-6128ns region, Input cursor 6044ns, output cursor 6060ns, delta 16ns and output 556a; ready for manual Wave-only capture",
+    "cache32": "User supplied final saved PNG with DDR_valid3020ns, cursor3028ns, 8ns interval and4ace data; inserted into report",
+    "manager": "Final user screenshot confirms both 3288ns Config_ready and3292ns process-start cursor, measured4ns, state2->3->4->5 and PASS; ready for manual Wave-only capture"
+  },
+  "board_access": false,
+  "pds_build": false,
+  "wave_window_verification": "r22_wave_window_verification.json",
+  "all_three_native_gui_runs_observed": true
+}

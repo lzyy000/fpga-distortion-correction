@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-03",
+  "project": "D:\\pango\\pango100Pro\\Camera_R22_20261031",
+  "inputs_unchanged": true,
+  "source_sha256": {
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\pnr_camera_r21_modes\\camera_1080p30_raw8.pds": "a0746cf56e0777138348f6797b147b6430694f1c4079271862eaf45148ebf724",
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\pnr_camera_r21_modes\\camera_1080p_top.fdc": "50999ada1d542d47141e030becbc203b4c97c3e9a91b1825a644f6e6f8759cda",
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\rtl\\camera_calibration.vh": "7ece86f454c421d60ece1c78cf86f6faad32515244167fd6bf277f8ae3d9c97f",
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\rtl\\camera_eis_manager_r22.v": "5ef5e42bed25db73646677c3520837803694484f002920268a0d3c03088159df",
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\rtl\\camera_eis_remap_r22.v": "59d68d112325a8a4ee0a05af6ed2eb2ecb01bbaa04bb800eacb53ab24ac3701e",
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\rtl\\camera_night_pixel_r19.v": "2951f32beca1332543eda5dfb9cb771462f9004c68ec2c12268b7050477af901",
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\rtl\\camera_strength_blend_r19.v": "214f7892230c980abbb5c845fc0af6dffa77a725375cb1ccf8c9ff60cfeec4b4",
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\rtl\\dynamic_divide.v": "9c1ba430410f46778bed35ab9ce0cda01d02b3d39efdb572000f6790a6d686d0",
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\rtl\\dynamic_map.v": "5d6222926983dc541ffec402e5ca30e31da363a07a9342892b515dcc60fca781",
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\rtl\\dynamic_mul32.v": "f0a3130994bc22a78f83fee94327d5df14af0ad36f6d5520c3e5d7766632b026",
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\rtl\\eis_quad_cache.v": "d3ce60f2c56a5ef2c049cf02916118df4ab9989d8e2beed09183ac998208b8d7",
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\rtl\\night_gain.hex": "59f45118e50ec18464a7976313c69506604b85747d77b8e9a9b0e01010c68d39",
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\rtl\\video_row_remap_r21.v": "dbd5a555a65453fa4c474a60f4d50f5d174d384f59d3ef7b1ec147270c22b3f9",
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\sim\\r22_eis\\tb_manager.v": "85963913c3334e275d53c2c1db5d968f664042ac765c20ce61f944ca1128c61a",
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\sim\\r22_eis\\tb_render.v": "6afb9adfb9d7582539457ff26a25f14c5d318e7264602b28563ef9ee99516fa5",
+    "D:\\pango\\pango100Pro\\Camera_R22_20261031\\sim\\r22_eis\\tb_static_cache32.v": "3bcede5f011cc87c75e9f5da2ed90645fd3ea8d79091a6b9a62b0ce0526d4706"
+  },
+  "cases": {
+    "render": {
+      "top": "tb_render",
+      "mods": [
+        "camera_eis_remap_r22",
+        "eis_quad_cache",
+        "dynamic_map",
+        "dynamic_mul32",
+        "dynamic_divide",
+        "camera_night_pixel_r19",
+        "camera_strength_blend_r19"
+      ],
+      "params": [],
+      "window": [
+        6032,
+        6128
+      ],
+      "signals": [
+        "clk",
+        "dut.qv",
+        "dut.hv",
+        "dut.vv",
+        "dut.p00",
+        "dut.p10",
+        "dut.p01",
+        "dut.p11",
+        "dut.fx",
+        "dut.fy",
+        "dut.interpolated_pixel"
+      ],
+      "scope": "128x96, 4 frames / 49152 pixels; finite RTL test with a waiting DDR transaction model"
+    },
+    "cache32": {
+      "top": "tb_static_cache32",
+      "mods": [
+        "video_row_remap_r21",
+        "camera_night_pixel_r19",
+        "camera_strength_blend_r19"
+      ],
+      "params": [
+        "-gCACHE_BITS=5"
+      ],
+      "window": [
+        2988,
+        3124
+      ],
+      "signals": [
+        "clk",
+        "req",
+        "accept",
+        "write",
+        "addr",
+        "beats",
+        "valid",
+        "trace_rdata0",
+        "dut.cache_read_valid",
+        "trace_cache_data0"
+      ],
+      "scope": "32-row cache, production width 1920, 3 sampled scanlines / 5760 pixels; DDR transaction model"
+    },
+    "manager": {
+      "top": "tb_manager",
+      "mods": [
+        "camera_eis_manager_r22"
+      ],
+      "params": [],
+      "window": [
+        3184,
+        3412
+      ],
+      "signals": [
+        "clk",
+        "eis",
+        "cap_done",
+        "cap_slot",
+        "ready",
+        "ef",
+        "trace_state0",
+        "ps",
+        "pe",
+        "pslt",
+        "pdone",
+        "de"
+      ],
+      "scope": "R22 four-slot finite control cases, including parameter readiness and captured mode retention"
+    }
+  },
+  "board_access": false,
+  "pds_build": false,
+  "gui_user_confirmation": "pending"
+}

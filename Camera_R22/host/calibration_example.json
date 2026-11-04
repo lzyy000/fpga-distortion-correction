@@ -1,0 +1,31 @@
+{
+  "K": [
+    [
+      1380,
+      0,
+      959.5
+    ],
+    [
+      0,
+      1035,
+      539.5
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ],
+  "D": [
+    -0.28,
+    0.07,
+    0.002,
+    -0.001,
+    0
+  ],
+  "calibration_size": [
+    1920,
+    1080
+  ],
+  "note": "Synthetic firmware profile; offline reference only, upload does not read this file."
+}

@@ -1,0 +1,11 @@
+tools/
+work/
+captures/
+__pycache__/
+*.pyc
+*.log
+*.vcd
+*.wlf
+*.lic
+scripts/local_tools.json
+host/camera_console/settings.json

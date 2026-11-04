@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-25",
+  "files": [
+    {
+      "file": "clahe_histogram_stat_v2.v",
+      "bytes": 9358,
+      "sha256": "6d345b0b7b6c66380e138796ad199216226a618d92a3f1f3c8e2ed6b861537a1"
+    },
+    {
+      "file": "clahe_clipper_cdf.v",
+      "bytes": 40355,
+      "sha256": "b937ffd8ded5f30aae203c2864abb16183b84f15e2f8bf5b67096b4e1b339431"
+    },
+    {
+      "file": "clahe_LICENSE.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "file": "mit_code.vhd",
+      "bytes": 7211,
+      "sha256": "de47e41ac982b92ec66e57ff5d846b47165c79bf9f39f0fb8ac2b30a98cc37fe"
+    },
+    {
+      "file": "mit_LICENSE.txt",
+      "bytes": 1073,
+      "sha256": "fe46a48158fffa065d144a6deabb0a7f736e073f5d35a3c5104195b38e9cfd01"
+    }
+  ]
+}
